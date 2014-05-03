@@ -1,0 +1,24 @@
+.content {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.content-inner {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.muted {
+  color: #999;
+}
+.activity a {
+  font-weight: bolder;
+}
+a {
+  color: #777;
+  font-weight: bold;
+}
+a:hover {
+  color: #888;
+}
+.activity p blockquote {
+  font-size: 8px;
+}
